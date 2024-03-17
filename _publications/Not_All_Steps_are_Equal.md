@@ -7,3 +7,6 @@ date: 2024-02-15
 venue: 'CVPR'
 paperurl: 'https://arxiv.org/html/2312.13307v2'
 citation: 'Li W, Su X, You S, et al. Not All Steps are Equal: Efficient Generation with Progressive Diffusion Models[J]. arXiv preprint arXiv:2312.13307, 2023.'
+---
+
+The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
