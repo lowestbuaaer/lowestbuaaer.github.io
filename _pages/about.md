@@ -1,17 +1,17 @@
 ---
 permalink: /
-title: "Beginner in the field of artificial intelligence"
+title: "Wenhao Li, a beginner in the field of artificial intelligence"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hello and welcome to my homepage! In 2023, I graduated with a Bachelor's degree in Software Engineering from Beihang University. During my bachelor's studies, I had the privilege of serving as a research assistant at Peking University and the University of Montreal and receiving the prestigious Mitacs Award from Canada.
+Hello and welcome to my homepage! In 2023, I graduated with a Bachelor's degree in Software Engineering from __Beihang University__. During my bachelor's studies, I had the privilege of serving as a research assistant at Peking University and the University of Montreal and receiving the prestigious __Mitacs Award__ from Canada.
 
-After my graduation, I joined SenseTime, a leading company in AI tech, where I spent a year as a CV Algorithm Researcher. My work primarily focused on Pose Estimation.
+After my graduation, I joined __SenseTime__, a leading company in AI tech, where I spent a year as a CV Algorithm Researcher. My work primarily focused on Pose Estimation.
 
-Currently, I am pursuing my Ph.D. at the University of Sydney, under the guidance of Professor Chang Xu. My expected graduation year is 2027, and during this period, I am dedicating my efforts to explore the realms of AIGC, diffusion models, and NAS.
+Currently, I am pursuing my Ph.D. at __the University of Sydney__, under the guidance of Professor __Chang Xu__. My research interests include  __AIGC, diffusion models, and NAS__.
 
 Education
 ======
