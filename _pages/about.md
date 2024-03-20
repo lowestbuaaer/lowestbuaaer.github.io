@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Wenhao Li, a beginner in the field of artificial intelligence"
 author_profile: true
 redirect_from: 
   - /about/
